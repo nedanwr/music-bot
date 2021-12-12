@@ -1,0 +1,19 @@
+{
+  "name": "@music-bot/bot",
+  "version": "1.0.0",
+  "description": "A free and open-source discord music bot",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedanwr/music-bot.git"
+  },
+  "author": "Naveed Ali Anwar <hello@naveedalianwar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedanwr/music-bot/issues"
+  },
+  "homepage": "https://github.com/nedanwr/music-bot#readme"
+}
